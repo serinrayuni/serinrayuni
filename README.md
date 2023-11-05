@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Seri Nur Ayuni</h1>
-<h3 align="center">Im a dedicated student of Computer Network & Security</h3>
 
 - 📫 How to reach me **serinrayuni@gmail.com**
 
